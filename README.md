@@ -15,6 +15,7 @@ A robust and fully dynamic Student Information System built with C. This project
 2. Compile the code using GCC:
    ```bash
    gcc Student_Information_System.c -o student_system
-   3. Run the game:
+   
+3. Run the game:
    ```bash
    ./hangman
