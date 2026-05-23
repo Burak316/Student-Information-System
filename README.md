@@ -16,6 +16,6 @@ A robust and fully dynamic Student Information System built with C. This project
    ```bash
    gcc Student_Information_System.c -o student_system
    
-3. Run the game:
+3. Run the program:
    ```bash
    ./student_system
