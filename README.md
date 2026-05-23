@@ -18,4 +18,4 @@ A robust and fully dynamic Student Information System built with C. This project
    
 3. Run the game:
    ```bash
-   ./hangman
+   ./student_system
